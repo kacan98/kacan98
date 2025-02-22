@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋🏻 Hi, I’m **@KarelCan**  
+I’m a Software Developer at **Dynaway**.
 
-<!--
-**kacan98/kacan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I began my programming journey in **June 2021**, transitioning from a marketing background. Since then, I’ve explored and gained experience in a wide range of technologies:  
+## 🛠️ Tech Stack & Interests  
+- **Frontend:**
+  - **JavaScript/TypeScript**: **Angular**, **React**, **Next.js**, **Svelte**.
+- **ERP Development:**
+  - Extensions for **Microsoft Dynamics Finance and Operations** using **X++**.  
+- **Backend:**
+  -  **.NET (C#)**, **Node.js**, **Deno** for building server-side applications.  
+- **Databases:**
+  - **PostgreSQL**, **Microsoft SQL Server**, **MongoDB**.  
+- **AI:**
+  - I’ve spent time using the **ChatGPT API** to create some cool stuff (you can try talking to my chatbot [here](https://kcancara.vercel.app/?modalOpen=Chatbot)).
+  - I use **GitHub Copilot** daily to boost my productivity.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I enjoy solving problems, learning, and building fun projects.
